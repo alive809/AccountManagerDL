@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{15BEF1EC-19B5-40F3-A9BE-6EEFDEB8BB4D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AcccountManager Status">
+    <Files>
+      <File FileName="AcccountManager/AcountManagerDBContext.cs" Line="1" Column="1" />
+      <File FileName="AcccountManager/Core/DataServiceBase.cs" Line="1" Column="1" />
+      <File FileName="AcccountManager/DataServices/AccountDataService.cs" Line="1" Column="1" />
+      <File FileName="AcccountManager/DataServices/AccountTypeDataService.cs" Line="1" Column="1" />
+      <File FileName="AcccountManager/Factory/AccountManagerDesignTimeFactory.cs" Line="28" Column="1" />
+      <File FileName="AcccountManager Status" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AcccountManager" expanded="True" selected="True">
+            <Node name="AcccountManager" expanded="True">
+              <Node name="DataServices" expanded="True" />
+              <Node name="Factory" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="AcccountManager" expanded="True">
+            <Node name="AccountManager.Test" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AccountManager.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/amaury/Projects/AcccountManager/AcccountManager/Core/ModelBasePersona.cs" relfile="AcccountManager/Core/ModelBasePersona.cs" line="6" column="1" />
+      <Breakpoint file="/Users/amaury/Projects/AcccountManager/AccountManager.Test/AccountTypeData.cs" relfile="AccountManager.Test/AccountTypeData.cs" line="23" column="1" />
+      <Breakpoint file="/Users/amaury/Projects/AcccountManager/AccountManager.Test/AccountTypeData.cs" relfile="AccountManager.Test/AccountTypeData.cs" line="14" column="1" />
+      <Breakpoint file="/Users/amaury/Projects/AcccountManager/AccountManager.Test/AccountTypeData.cs" relfile="AccountManager.Test/AccountTypeData.cs" line="16" column="1" />
+      <Breakpoint file="/Users/amaury/Projects/AcccountManager/AcccountManager/Factory/AccountManagerDesignTimeFactory.cs" relfile="AcccountManager/Factory/AccountManagerDesignTimeFactory.cs" line="17" column="1" />
+      <Breakpoint file="/Users/amaury/Projects/AcccountManager/AccountManager.Test/AccountTypeData.cs" relfile="AccountManager.Test/AccountTypeData.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

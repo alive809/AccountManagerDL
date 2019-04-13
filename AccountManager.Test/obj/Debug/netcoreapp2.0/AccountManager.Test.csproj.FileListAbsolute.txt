@@ -1,0 +1,17 @@
+/Users/amaury/Projects/AcccountManager/AccountManager.Test/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/amaury/Projects/AcccountManager/AccountManager.Test/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/amaury/Projects/AcccountManager/AccountManager.Test/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/amaury/Projects/AcccountManager/AccountManager.Test/bin/Debug/netcoreapp2.0/AccountManager.Test.deps.json
+/Users/amaury/Projects/AcccountManager/AccountManager.Test/bin/Debug/netcoreapp2.0/AccountManager.Test.runtimeconfig.json
+/Users/amaury/Projects/AcccountManager/AccountManager.Test/bin/Debug/netcoreapp2.0/AccountManager.Test.runtimeconfig.dev.json
+/Users/amaury/Projects/AcccountManager/AccountManager.Test/bin/Debug/netcoreapp2.0/AccountManager.Test.dll
+/Users/amaury/Projects/AcccountManager/AccountManager.Test/bin/Debug/netcoreapp2.0/AccountManager.Test.pdb
+/Users/amaury/Projects/AcccountManager/AccountManager.Test/bin/Debug/netcoreapp2.0/AcccountManager.dll
+/Users/amaury/Projects/AcccountManager/AccountManager.Test/bin/Debug/netcoreapp2.0/AcccountManager.pdb
+/Users/amaury/Projects/AcccountManager/AccountManager.Test/obj/Debug/netcoreapp2.0/AccountManager.Test.csprojAssemblyReference.cache
+/Users/amaury/Projects/AcccountManager/AccountManager.Test/obj/Debug/netcoreapp2.0/AccountManager.Test.csproj.CoreCompileInputs.cache
+/Users/amaury/Projects/AcccountManager/AccountManager.Test/obj/Debug/netcoreapp2.0/AccountManager.Test.AssemblyInfoInputs.cache
+/Users/amaury/Projects/AcccountManager/AccountManager.Test/obj/Debug/netcoreapp2.0/AccountManager.Test.AssemblyInfo.cs
+/Users/amaury/Projects/AcccountManager/AccountManager.Test/obj/Debug/netcoreapp2.0/AccountManager.Test.csproj.CopyComplete
+/Users/amaury/Projects/AcccountManager/AccountManager.Test/obj/Debug/netcoreapp2.0/AccountManager.Test.dll
+/Users/amaury/Projects/AcccountManager/AccountManager.Test/obj/Debug/netcoreapp2.0/AccountManager.Test.pdb

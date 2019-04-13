@@ -1,0 +1,11 @@
+/Users/amaury/Projects/AcccountManager/AcccountManager/bin/Debug/netcoreapp2.0/AcccountManager.deps.json
+/Users/amaury/Projects/AcccountManager/AcccountManager/bin/Debug/netcoreapp2.0/AcccountManager.runtimeconfig.json
+/Users/amaury/Projects/AcccountManager/AcccountManager/bin/Debug/netcoreapp2.0/AcccountManager.runtimeconfig.dev.json
+/Users/amaury/Projects/AcccountManager/AcccountManager/bin/Debug/netcoreapp2.0/AcccountManager.dll
+/Users/amaury/Projects/AcccountManager/AcccountManager/bin/Debug/netcoreapp2.0/AcccountManager.pdb
+/Users/amaury/Projects/AcccountManager/AcccountManager/obj/Debug/netcoreapp2.0/AcccountManager.csproj.CoreCompileInputs.cache
+/Users/amaury/Projects/AcccountManager/AcccountManager/obj/Debug/netcoreapp2.0/AcccountManager.AssemblyInfoInputs.cache
+/Users/amaury/Projects/AcccountManager/AcccountManager/obj/Debug/netcoreapp2.0/AcccountManager.AssemblyInfo.cs
+/Users/amaury/Projects/AcccountManager/AcccountManager/obj/Debug/netcoreapp2.0/AcccountManager.dll
+/Users/amaury/Projects/AcccountManager/AcccountManager/obj/Debug/netcoreapp2.0/AcccountManager.pdb
+/Users/amaury/Projects/AcccountManager/AcccountManager/obj/Debug/netcoreapp2.0/AcccountManager.csprojAssemblyReference.cache

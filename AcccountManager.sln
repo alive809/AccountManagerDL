@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcccountManager", "AcccountManager\AcccountManager.csproj", "{FFB0E297-5965-4C9B-9C69-9F4FE9609944}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountManager.Test", "AccountManager.Test\AccountManager.Test.csproj", "{15BEF1EC-19B5-40F3-A9BE-6EEFDEB8BB4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFB0E297-5965-4C9B-9C69-9F4FE9609944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB0E297-5965-4C9B-9C69-9F4FE9609944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB0E297-5965-4C9B-9C69-9F4FE9609944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB0E297-5965-4C9B-9C69-9F4FE9609944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15BEF1EC-19B5-40F3-A9BE-6EEFDEB8BB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BEF1EC-19B5-40F3-A9BE-6EEFDEB8BB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BEF1EC-19B5-40F3-A9BE-6EEFDEB8BB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BEF1EC-19B5-40F3-A9BE-6EEFDEB8BB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
